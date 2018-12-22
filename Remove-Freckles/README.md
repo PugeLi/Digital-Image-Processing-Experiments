@@ -26,6 +26,6 @@ or
 
 ### 效果展示
 
-![图片1](https://gitlab.com/Yuxiang-Wei/images/raw/master/img1.png)
+![图片1](./img/result1.png)
 
-![图片2](https://gitlab.com/Yuxiang-Wei/images/raw/master/img2.png)
+![图片2](./img/result2.png)
