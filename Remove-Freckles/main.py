@@ -87,7 +87,7 @@ if __name__ == '__main__':
                                    ['img_path=', 'algorithm=', 'radius=', 'threshold=', 'color_sigma=', 'space_sigma='])
     except getopt.GetoptError:
         print(
-            'Usage: python 1160301029-Exp-3.py -i <img_path> [-a <algorithm>] [-r <radius>] [-t <threshold>] [-c <color_sigma>] [-s <space_sigma>]')
+            'Usage: python main.py -i <img_path> [-a <algorithm>] [-r <radius>] [-t <threshold>] [-c <color_sigma>] [-s <space_sigma>]')
         sys.exit(2)
     for opt, arg in opts:
         if opt in ('-a', '--algorithm'):
