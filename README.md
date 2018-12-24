@@ -11,11 +11,11 @@
 - [x] Sobel算子
 
 
-## [Remove-Freckles](./Remove-Freckles)
+## [Freckle-Removal](./Freckle-Removal)
 
 - [x] 双边滤波
 - [x] 高斯模糊
 
-## [Remove-Background](./Remove-Background)
+## [Background-Removal](./Background-Removal)
 
 - [x] Region Grow
